@@ -3,7 +3,7 @@
 2.Priyanshu Sahani      (20230041)  priyanshu-sahani-10<br>
 ## Project Name: Luggage-Hub<br>
 ## Project idea:<br>
-=>So we provide a efficient web-solution for following problems:<br>
+.So we provide a efficient web-solution for travelling and luggage related problem when we does not want to stay hotel but want to get rid off with our luggage:<br>
 ## Intuitive Search: 
 .Users can easily find storage locations by entering their destination (city, landmark, etc.) and desired dates/times.<br>
 ## Interactive Map:
@@ -12,5 +12,5 @@
 .Displays pricing information upfront (per hour, per day), with potential discounts for longer storage.<br>
 ## Website Frame 
 . HTML CSS and JavaScript for frontend<br>
-. Express Nodejs for backend 
+. Express Nodejs for backend<br>
 . Mongodb for database 
